@@ -1,7 +1,3 @@
-# Stephanie Brainard
-# CIS 261
-# Week 4 - Movie Guide Part 1
-
 def display_heading():
     print("*" * 41)
     print("Stephanie's Stupendous Movie List Program")
