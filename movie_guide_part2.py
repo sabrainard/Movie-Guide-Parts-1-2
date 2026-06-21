@@ -1,7 +1,3 @@
-# Stephanie Brainard
-# CIS 261
-# Week 6 - Movie Guide Part 2
-
 #Shows the heading
 def display_heading():
     print("*" * 30)
